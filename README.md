@@ -23,10 +23,15 @@ sudo pip install selenium
 pip show selenium
 ```
 
-3. Download the code into your PC
-4. Run the code
+3. Download auto.py into your PC
+4. Before you run the code, make sure you are in the downloaded code directory!
+5. Run the code
 ```
 python3 auto.py
 ```
 
 6. This code will run until you close it, this code will check the internet connection every 5 seconds
+7. Stop The Code
+```
+Press Ctrl+C
+```
