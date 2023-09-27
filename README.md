@@ -31,7 +31,8 @@ python3 auto.py
 ```
 
 6. This code will run until you close it, this code will check the internet connection every 5 seconds
-7. Stop The Code
+   ![alt tag](https://github.com/fakry32/code/blob/main/Screenshot Running Code.png)
+8. Stop The Code
 ```
 Press Ctrl+C
 ```
