@@ -24,6 +24,7 @@ pip show selenium
 ```
 
 3. Download auto.py into your PC
+![alt tag](https://github.com/fakry32/auto-login-wifi-pens/blob/main/SS.png)
 4. Change the username and password
 ![alt tag](https://github.com/fakry32/auto-login-wifi-pens/blob/main/Change_User.png)
 
