@@ -42,7 +42,7 @@ def main():
             print("Tidak ada koneksi internet")
             
             login("username", "password")
-        time.sleep(1)
+        time.sleep(5)
 
 if __name__ == "__main__":
     main()
