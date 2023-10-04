@@ -25,11 +25,12 @@ pip show selenium
 
 3. Download auto.py into your PC
 ![alt tag](https://github.com/fakry32/auto-login-wifi-pens/blob/main/SS.png)
-4. Change the username and password ( change username into youremail@XX.pens.ac.id and change password into your password )
+4. Change the username and password
+n
 ![alt tag](https://github.com/fakry32/auto-login-wifi-pens/blob/main/Change_User.png)
 
-5. Before you run the code, make sure you are in the downloaded code directory!
-6. Run the code
+6. Before you run the code, make sure you are in the downloaded code directory!
+7. Run the code
 ```
 python3 auto.py
 ```
