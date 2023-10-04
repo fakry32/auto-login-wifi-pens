@@ -1,7 +1,7 @@
 # Auto Login Wifi Pens
 Auto Login Wifi Pens Using Python
 
-### How to Run in Linux :
+### How to Run in Linux ( Error )( Under Repair ) :
 1. Install Python
 ```
 sudo apt update
