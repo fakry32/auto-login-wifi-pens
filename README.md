@@ -83,7 +83,6 @@ https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
 ![alt tag](https://github.com/fakry32/auto-login-wifi-pens/blob/main/doc/2.png)
 ![alt tag](https://github.com/fakry32/auto-login-wifi-pens/blob/main/doc/3.png)
 11. Download windows_auto.py into your PC
-![alt tag](https://github.com/fakry32/auto-login-wifi-pens/blob/main/doc/SS.png)
 12. Copy windows_auto.py into folder Login <br>
 ![alt tag](https://github.com/fakry32/auto-login-wifi-pens/blob/main/doc/4.png)
 14. Change the username and password <br>
