@@ -78,15 +78,19 @@ https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
 ```
 
 7. Create Folder (Example : Login)
-8. Extract Chrome Driver Into Folder Login
-10. Download windows_auto.py into your PC
-![alt tag](https://github.com/fakry32/auto-login-wifi-pens/blob/main/SS.png)
-11. Copy windows_auto.py into folder Login
-12. Change the username and password
-![alt tag](https://github.com/fakry32/auto-login-wifi-pens/blob/main/Change_User.png)
+![alt tag](https://github.com/fakry32/auto-login-wifi-pens/blob/main/doc/1.png)
+9. Extract Chrome Driver Into Folder Login
+![alt tag](https://github.com/fakry32/auto-login-wifi-pens/blob/main/doc/2.png)
+![alt tag](https://github.com/fakry32/auto-login-wifi-pens/blob/main/doc/3.png)
+11. Download windows_auto.py into your PC
+![alt tag](https://github.com/fakry32/auto-login-wifi-pens/blob/main/doc/SS.png)
+12. Copy windows_auto.py into folder Login
+![alt tag](https://github.com/fakry32/auto-login-wifi-pens/blob/main/doc/4.png)
+14. Change the username and password
+![alt tag](https://github.com/fakry32/auto-login-wifi-pens/blob/main/doc/Change_User.png)
 
-13. Before you run the code, make sure you are in the downloaded code directory!
-14. Run the code
+15. Before you run the code, make sure you are in the downloaded code directory!
+16. Run the code
 ```
 python3 auto.py
 ```
