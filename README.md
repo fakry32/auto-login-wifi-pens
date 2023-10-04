@@ -91,7 +91,7 @@ https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
 16. Before you run the code, make sure you are in the downloaded code directory!
 17. Run the code
 ```
-python3 auto.py
+python auto.py
 ```
 
 7. This code will run until you close it, this code will check the internet connection every 5 seconds
