@@ -44,6 +44,9 @@ Press Ctrl+C
 
 
 ### How to Run in Windows :
+First You Need To Change Chrome Version in Your PC ( Chrome 114 Version ) Just Download Chrome_114 in My Repository
+And Then Turn OFF Auto Update in Chrome
+
 1. Install Python
 ```
 https://www.python.org/ftp/python/3.12.0/python-3.12.0-amd64.exe
