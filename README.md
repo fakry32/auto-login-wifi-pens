@@ -77,7 +77,7 @@ pip install requests
 https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
 ```
 
-7. Create Folder (Example : Login)
+7. Create Folder (Example : Login) <br>
 ![Login](doc/1.png)
 9. Extract Chrome Driver Into Folder Login
 ![alt tag](https://github.com/fakry32/auto-login-wifi-pens/blob/main/doc/2.png)
