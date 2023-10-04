@@ -77,26 +77,25 @@ pip install requests
 https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
 ```
 
-7. Create Folder (Example : Login) <br>
+6. Create Folder (Example : Login) <br>
 ![Login](doc/1.png)
-9. Extract Chrome Driver Into Folder Login
+7. Extract Chrome Driver Into Folder Login
 ![alt tag](https://github.com/fakry32/auto-login-wifi-pens/blob/main/doc/2.png)
 ![alt tag](https://github.com/fakry32/auto-login-wifi-pens/blob/main/doc/3.png)
-11. Download windows_auto.py into your PC
-12. Copy windows_auto.py into folder Login <br>
+8. Download windows_auto.py into your PC
+9. Copy windows_auto.py into folder Login <br>
 ![alt tag](https://github.com/fakry32/auto-login-wifi-pens/blob/main/doc/4.png)
-14. Change the username and password <br>
+10. Change the username and password <br>
 ![alt tag](https://github.com/fakry32/auto-login-wifi-pens/blob/main/doc/Change_User.png)
 
-16. Before you run the code, make sure you are in the downloaded code directory!
-17. Run the code
+11. Before you run the code, make sure you are in the downloaded code directory!
+12. Run the code
 ```
 python auto.py
 ```
 
-7. This code will run until you close it, this code will check the internet connection every 5 seconds
-![alt tag](https://github.com/fakry32/auto-login-wifi-pens/blob/main/Running_Code.png)
-8. Stop The Code
+13. This code will run until you close it, this code will check the internet connection every 5 seconds
+14. Stop The Code
 ```
 Press Ctrl+C
 ```
